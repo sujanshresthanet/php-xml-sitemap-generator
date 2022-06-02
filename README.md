@@ -9,7 +9,7 @@ Add this to composer.json require block.
 ``` json
 {
     "require": {
-        "sujanshrestha/php-xml-sitemap-generator": "1.*"
+        "sujanshresthanet/php-xml-sitemap-generator": "2.*"
     }
 }
 ```
