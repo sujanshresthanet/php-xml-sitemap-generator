@@ -1,0 +1,32 @@
+{
+    "name": "sujanshresthanet/php-xml-sitemap-generator",
+    "type": "php",
+    "description": "PHP XML Sitemap Generator",
+    "keywords": ["sitemap", "seo", "google"],
+    "homepage": "https://github.com/sujanshresthanet/php-xml-sitemap-generator",
+    "license": "GPL-3.0+",
+    "keywords": [
+        "php-xml-sitemap",
+        "sitemap",
+        "php"
+    ],
+    "require": {
+        "php": ">=5.3.10"
+    },
+    "authors": [
+        {
+          "name": "Sujan Shrestha",
+          "role": "lead"
+        }
+    ],
+    "require": {
+    },
+    "require-dev": {
+        "windwalker/test": "2.*@stable"
+    },
+    "autoload": {
+        "psr-4": {
+            "SujanShrestha\\Sitemap\\": "src/"
+        }
+    }
+}
