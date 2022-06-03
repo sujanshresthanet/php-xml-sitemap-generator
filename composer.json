@@ -2,8 +2,20 @@
     "name": "sujanshresthanet/php-xml-sitemap-generator",
     "type": "php",
     "description": "PHP XML Sitemap Generator",
-    "keywords": ["sitemap", "seo", "google"],
     "homepage": "https://github.com/sujanshresthanet/php-xml-sitemap-generator",
+    "authors": [
+        {
+          "name": "Sujan Shrestha",
+          "homepage": "https://sujanshrestha.net"
+        }
+    ],
+    "keywords": [
+        "sitemap",
+        "xml-sitemap",
+        "php",
+        "seo",
+        "google"
+    ],
     "license": "GPL-3.0+",
     "require": {
         "php": ">=5.3.10"
