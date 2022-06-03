@@ -28,5 +28,11 @@
             "SujanShrestha\\Sitemap\\": "src/"
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "funding": [
+        {
+            "type": "paypal",
+            "url": "https://www.paypal.com/donate/?hosted_button_id=2L5XM9USTV4K4"
+        }
+    ]
 }
