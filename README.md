@@ -1,3 +1,5 @@
+[![Latest Stable Version](http://poser.pugx.org/sujanshresthanet/php-xml-sitemap-generator/v)](https://packagist.org/packages/sujanshresthanet/php-xml-sitemap-generator) [![Total Downloads](http://poser.pugx.org/sujanshresthanet/php-xml-sitemap-generator/downloads)](https://packagist.org/packages/sujanshresthanet/php-xml-sitemap-generator) [![Latest Unstable Version](http://poser.pugx.org/sujanshresthanet/php-xml-sitemap-generator/v/unstable)](https://packagist.org/packages/sujanshresthanet/php-xml-sitemap-generator) [![License](http://poser.pugx.org/sujanshresthanet/php-xml-sitemap-generator/license)](https://packagist.org/packages/sujanshresthanet/php-xml-sitemap-generator) [![PHP Version Require](http://poser.pugx.org/sujanshresthanet/php-xml-sitemap-generator/require/php)](https://packagist.org/packages/sujanshresthanet/php-xml-sitemap-generator) [![Dependents](http://poser.pugx.org/sujanshresthanet/php-xml-sitemap-generator/dependents)](https://packagist.org/packages/sujanshresthanet/php-xml-sitemap-generator)
+
 # PHP Sitemap
 
 PHP XML Sitemap Generator.
