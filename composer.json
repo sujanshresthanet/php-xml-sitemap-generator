@@ -8,8 +8,6 @@
     "require": {
         "php": ">=5.3.10"
     },
-    "require": {
-    },
     "require-dev": {
         "windwalker/test": "2.*@stable"
     },
