@@ -23,3 +23,4 @@ class ChangeFreq
 	const YEARLY = 'yearly';
 	const NEVER = 'never';
 }
+
